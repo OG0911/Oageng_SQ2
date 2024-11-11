@@ -245,19 +245,19 @@ public class Calculator extends javax.swing.JFrame {
             
             char carGrade;
             
-            if (dblPercentage >= 90){
+            if (dblPercentage >= 95){
                 carGrade = 'A';
             }
-            else if (dblPercentage >= 80){
+            else if (dblPercentage >= 85){
                 carGrade = 'B';
             }
-            else if (dblPercentage >= 70){
+            else if (dblPercentage >= 75){
                 carGrade = 'C';
             }
-            else if (dblPercentage >= 60){
+            else if (dblPercentage >= 65){
                 carGrade = 'D';
             }
-            else if (dblPercentage >= 50){
+            else if (dblPercentage >= 55){
                 carGrade = 'E';
             }
             else{
