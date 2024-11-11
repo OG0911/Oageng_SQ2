@@ -1,12 +1,6 @@
 # Oageng_SQ2
 Retrieval and updating of the source file that are in accordance with organization procedures by:
-
-1. Signing in to GitHub
-2. Creating a new repository and maiking it public
-3. Creating a read-me file on GitHub
-4. Navigating NetBeans Projects folder on the local drive
-5. Searching for the Student Grade Calculator project
-6. Then opening Git Bash
-7. Pushing the project from from GitBash to GitHub - "Initail Commit"
-8. Refreshing GitHub to see the changes
-9. Taking screenshots of the full screen that clearly shows all the files, branches, and commit versions
+1. Making a change to the Student Grade Calculator Project (the change is the grading system (e.g. ‘A’ >= 95 instend of ‘A’ >= 90) and it is done for all of them)
+2. Saving the changes and running the programs on NetBeans
+3. Opening Git Bash
+4. Commit the updated file back to version control system as a 'second commit'
